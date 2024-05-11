@@ -1,0 +1,19 @@
+.task-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    justify-content: center;
+  }
+  
+  .task-card {
+    width: calc(20% - 50px);
+    margin: 10px;
+  }
+
+  h2 {
+    text-align: center;
+  }
+  
+  p{
+    text-align: justify;
+  }
