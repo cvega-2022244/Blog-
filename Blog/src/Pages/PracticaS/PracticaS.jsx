@@ -1,11 +1,9 @@
-import React from 'react'
-import { Navbar } from '../../Components/Navbar/Navbar'
+import React from 'react';
 
 export const PracticaS = () => {
   return (
     <div>
-        <Navbar></Navbar>  
-        Practica
+      Practica
     </div>
-  )
-}
+  );
+};
